@@ -56,7 +56,7 @@ class GitPulse < Formula
 
   resource "pygments" do
     url "https://files.pythonhosted.org/packages/source/P/Pygments/pygments-2.19.2.tar.gz"
-    sha256 "86540386c03d588bb81d44bc3928634ff26449851e99741617ecb9037ee5ec0b"
+    sha256 "636cb2477cec7f8952536970bc533bc43743542f70392ae026374600add5b887"
   end
 
   resource "shellingham" do
